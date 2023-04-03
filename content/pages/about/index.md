@@ -1,13 +1,11 @@
 +++
-title = "About me"
+title = "me"
 draft = false
 image = ""
 description = ""
 +++
 ![](icon.jpg)
 
-## My Name
+## clara
 
-mail@example.org
-
-Here should be some info about me...
+wellcome!
