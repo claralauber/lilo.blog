@@ -1,5 +1,5 @@
 +++
-title = "me"
+title = "Me"
 draft = false
 image = ""
 description = ""
