@@ -1,7 +1,7 @@
 +++
 title = "NO PAIN, NO GAIN!"
 date = "2023-05-06"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "Musik"]
 image = "microsoftteams-image-1-.png"
