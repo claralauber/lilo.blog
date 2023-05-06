@@ -31,6 +31,8 @@ Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssp
 
 ![In welches Ensemble möchte ich kommen? Die Übersicht im Konsi kann bei der Entscheidung behilflich sein. Foto: Helena Trautmann](microsoftteams-image-2-.png)
 
+
+
 ## Das Ziel - der Erfolg
 
 Viele Jugendliche, welche sich intensiv mit Musik auseinandersetzen, fangen bereits im Kindesalter damit an. Beim Erlernen eines Instrumentes bilden sich im Gehirn Vernetzungen, was bei Kindern deutlich schneller und einfacher zustande kommt als bei Erwachsenen. Ab einem gewissen Alter stellen sich dann die Fragen: Wie viel möchte ich noch für die Musik investieren? Was sind meine Prioritäten? Wo sind meine Grenzen? Vor allem Jugendliche versuchen oft, ihren persönlichen Interessen nachzugehen und einen Mittelweg zu finden, auf dem sie alles vereinigen können, was ihnen wichtig ist. Dafür müssen viele Entscheidungen getroffen werden, welche sehr gut überlegt sein müssen, denn diese Entscheidungen können die gesamte Zukunft der Jugendlichen entsprechend bestimmen. Auch muss den Jugendlichen klar sein, worauf sie hinarbeiten, was ihre Ziele sind. Diese sind sehr individuell und auch von unterschiedlicher Bedeutung, sowohl für den/die Jugendliche/n, als auch für andere Betroffene, wie zum Beispiel den/die Lehrer/in; entscheidend ist aber, dass es die kleinen und grossen Erfolge prägt. Ob es nun darum geht, ins Ensemble zu kommen oder das momentane Stück bei der nächsten Musizierstunde vorspielen zu können, bei all dem geht es darum, weiterzukommen, sich zu verbessern und seine Leidenschaft auszuüben. 
@@ -38,7 +40,11 @@ Als Schüler mit dem Schwerpunktfach Biologie und Chemie tendiert Aaron eher daz
 
 > «Was werde ich letztendlich machen? Kann ich meine Ziele erreichen? Was wird aus mir? All das sind Fragen, welche sich die Jugendlichen in Bezug auf ihre Zukunft stellen. «
 
+
+
 ![Kann ich meine Ziele erreichen? Ein Konzert kann zwar eine Hürde darstellen, viele nehmen es jedoch mit der Zeit als eine Gelegenheit war, anderen mit ihrer Musik eine Freude zu machen.  Foto: Helena Trautmann](microsoftteams-image-1-.png)
+
+
 
 ## Die Zukunft
 
