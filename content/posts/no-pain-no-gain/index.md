@@ -4,6 +4,7 @@ date = "2023-05-06"
 draft = true
 pinned = false
 tags = ["Deutsch", "Reportage", "Musik"]
+image = "microsoftteams-image-1-.png"
 description = "Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem Förderprogramm teil, investieren mehr Zeit in ihr Hobby, setzen sich vermehrt mit der Musik auseinander. Wie entwickelt sich ihr Weg? Was müssen die Jugendliche alles leisten, um an ihre Ziele zu gelangen?"
 +++
 ![Bereits um acht Uhr morgens hat das Konsi geöffnet, ideal, um schon vor der Schule auf die Pauke zu hauen. Foto: Helena Trautmann](microsoftteams-image.png)
