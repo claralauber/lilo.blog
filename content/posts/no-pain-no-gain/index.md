@@ -1,7 +1,7 @@
 +++
 title = "NO PAIN, NO GAIN!"
 date = "2023-05-06"
-draft = false
+draft = true
 pinned = false
 tags = ["Deutsch", "Reportage", "Musik"]
 image = "microsoftteams-image-1-.png"
@@ -26,6 +26,8 @@ Jede/r, der sich für Musik interessiert und mehr Zeit dafür investieren möcht
 Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssport und allen anderen Bereichen, in welchen ein grosser Erfolg erzielt werden soll, wird Beharrlichkeit und Kontinuität gebraucht.  Dazu passt auch eine Aussage über Kobe Bryant, ein kürzlich verunfallte Basketballspieler der National Basketball League, kurz NBL, von seinem Trainer, Phil Jackson: „Er erreichte sein Ziel durch Einsatz und Beharrlichkeit“.
 
 > «Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist.»
+
+
 
 ![In welches Ensemble möchte ich kommen? Die Übersicht im Konsi kann bei der Entscheidung behilflich sein. Foto: Helena Trautmann](microsoftteams-image-2-.png)
 
