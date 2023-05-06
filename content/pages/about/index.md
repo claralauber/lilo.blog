@@ -6,6 +6,4 @@ description = ""
 +++
 ![](icon.jpg)
 
-## clara
-
-wellcome!
+Welcome!
