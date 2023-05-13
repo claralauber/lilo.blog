@@ -11,7 +11,7 @@ description = "Immer mehr Schülerinnen und Schüler des Konservatoriums Bern ne
 
 Es ist ein regnerischer Montagmorgen, kurz nach acht. Normalerweise sitzt der 16-jährige Gymnasiast Aaron Wulf zu dieser Uhrzeit im Konservatorium Bern und übt Percussion. Percussion ist ein Oberbegriff für den Bereich der Schlag- und Effektivinstrumente; jedes Perkussionsinstrument hat dabei eine individuelle Herkunft bzw. eine kulturelle Bedeutung. Dieses Mal jedoch ist er für das Interview mit uns in die Mediothek des Gymnasium Kirchenfelds gekommen. Die rechteckige Brille auf der Nase, die blonden Locken zu einem Dutt zusammengebunden und die Kopfhörer um den Nacken gelegt, sehen wir ihn an einem der Tische. Auf den ersten Blick ist nicht erkennbar, was sein Hobby ist, und noch weniger, was es für ihn bedeutet - was uns jedoch schon sehr bald klar wird. Seit zehn Jahren spiele er Percussion, ausserdem habe er sechs Jahre lang Klavier gespielt, wegen der Schule dann jedoch aufgehört, erzählt er uns. Nebenbei sei er in einem Fussballverein.
 
-Er ist nicht der Einzige, der einen Teil seiner Freizeit mit Üben und der Teilnahme an Ensembles, also einer Gruppe von Musikern, und anderen solchen Aktivitäten verbringt. Die Stücke sind schwer und erfordern viel Übungszeit; täglich setzt man sich für mehrere Stunden hin und wiederholt schwierige Stellen, erlernt neue Techniken, feilt an der musikalischen Interpretation, bis sie nach mehreren Wochen bis gar Monaten endlich konzertreif sind und bei einer Musizierstunde, einem Talentförderungskonzert oder einem Wettbewerb vorgespielt werden können. Es braucht Ausdauer, so lange am selben Stück zu arbeiten, doch umso grösser ist die Lust, die Stücke in den Griff zu bekommen, um sie eines Tages einem Publikum präsentieren zu können. „Das Durchhalten ist nicht immer so einfach. Man kommt jedoch auch nicht weiter, wenn man nichts macht“, findet er. So ergeht es vielen Jugendlichen, die sich für ein Leistungshobby entschieden haben. Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist. Zudem können die **Jugendlichen** eine sogenannte Talentcard beantragen, mit der ihnen Stipendien und Dispensationen vom Schulunterricht ermöglicht werden.
+Er ist nicht der Einzige, der einen Teil seiner Freizeit mit Üben und der Teilnahme an Ensembles, also einer Gruppe von Musikern, und anderen solchen Aktivitäten verbringt. Die Stücke sind schwer und erfordern viel Übungszeit; täglich setzt man sich für mehrere Stunden hin und wiederholt schwierige Stellen, erlernt neue Techniken, feilt an der musikalischen Interpretation, bis sie nach mehreren Wochen bis gar Monaten endlich konzertreif sind und bei einer Musizierstunde, einem Talentförderungskonzert oder einem Wettbewerb vorgespielt werden können. Es braucht Ausdauer, so lange am selben Stück zu arbeiten, doch umso grösser ist die Lust, die Stücke in den Griff zu bekommen, um sie eines Tages einem Publikum präsentieren zu können. „Das Durchhalten ist nicht immer so einfach. Man kommt jedoch auch nicht weiter, wenn man nichts macht“, findet er. So ergeht es vielen Jugendlichen, die sich für ein Leistungshobby entschieden haben. Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist. Zudem können die Jugendlichen eine sogenannte Talentcard beantragen, mit der ihnen Stipendien und Dispensationen vom Schulunterricht ermöglicht werden.
 
 {{<box>}}
 
@@ -21,17 +21,11 @@ Jede/r, der sich für Musik interessiert und mehr Zeit dafür investieren möcht
 
 {{</box>}}
 
-
-
 Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssport und allen anderen Bereichen, in welchen ein grosser Erfolg erzielt werden soll, wird Beharrlichkeit und Kontinuität gebraucht.  Dazu passt auch eine Aussage über Kobe Bryant, ein kürzlich verunfallte Basketballspieler der National Basketball League, kurz NBL, von seinem Trainer, Phil Jackson: „Er erreichte sein Ziel durch Einsatz und Beharrlichkeit“.
 
 > «Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist.»
 
-
-
 ![In welches Ensemble möchte ich kommen? Die Übersicht im Konsi kann bei der Entscheidung behilflich sein. Foto: Helena Trautmann](microsoftteams-image-2-.png)
-
-
 
 ## Das Ziel - der Erfolg
 
@@ -40,18 +34,12 @@ Als Schüler mit dem Schwerpunktfach Biologie und Chemie tendiert Aaron eher daz
 
 > «Was werde ich letztendlich machen? Kann ich meine Ziele erreichen? Was wird aus mir? All das sind Fragen, welche sich die Jugendlichen in Bezug auf ihre Zukunft stellen. «
 
-
-
 ![Kann ich meine Ziele erreichen? Ein Konzert kann zwar eine Hürde darstellen, viele nehmen es jedoch mit der Zeit als eine Gelegenheit war, anderen mit ihrer Musik eine Freude zu machen.  Foto: Helena Trautmann](microsoftteams-image-1-.png)
-
-
 
 ## Die Zukunft
 
 Es braucht vieles, um professionelle/r Musiker/in zu werden. Um mehr dazu zu erfahren, begeben wir uns ins Konservatorium Bern, mitten in der Altstadt. Am Montagmorgen um 11 Uhr ist es noch ruhig, die Cafeteria leer. Der Unterricht hat für die meisten noch nicht begonnen. Uns empfängt Marcin Grochowina, professioneller Musiker und Leiter verschiedener Fachbereiche des Konservatorium Berns, unter anderem der Förderprogramme. Wir betreten sein Zimmer. Es ist eher klein und wirkt wie eine Mischung aus einem gewöhnlichen Büro, mit Schreibtisch, Topfpflanze und Bildern an den Wänden, und einem Musikzimmer, da in der Ecke ein Klavier platziert wurde. Während unseres Gesprächs betont er: „Das Wichtigste ist die eigene Überzeugung und das Wollen.“ Später fügt er hinzu, dass aber auch das Talent und Können von wichtiger Bedeutung seien. Die berufliche Entscheidung für diesen Bereich fälle man heutzutage meistens im Alter von 16 bis 18 Jahren, also einem Alter, in welchem man sich auch oft die Fragen stelle: Wie sieht der Alltag später aus? Was werde ich letztendlich machen? Kann ich meine Ziele erreichen? Was wird aus mir? Musik sei zwar ein sehr schöner Bereich, welcher jedoch gleichzeitig viele unklare Felder und Fragezeichen aufweise. Man wisse nicht, was auf einen zukomme, wohin es einen treibe. Ausserdem habe man als Musiker/in viel Konkurrenz und sei oft allein unterwegs, wodurch man sich auch mal einsam fühlen könne. Und dennoch wird dieser Weg genommen. Jugendliche hätten eine innere Kraft, die ihnen ermöglicht, trotz vieler Hürden und Konkurrenz ihre Leidenschaft sogar beruflich nachzugehen, auch wenn das etwas mehr Aufwand benötigt, als andere bereit wären zu geben. So sagte auch Kobe Bryant: „Wenn du ein/e bessere/r Spieler/in werden willst, musst du trainieren, trainieren und noch mehr trainieren.“ Auch sein Trainer Phil Jackson war dieser Meinung, in einem Interview erklärt er: „Talent zu haben ist eine Sache, die andere ist der innere Antrieb, die Feinheiten zu erlernen.“ 
 M. Grochowinas Aussage zufolge sei es sehr wichtig, regelmässig den Standort zu ermitteln, sich ein Ziel festzulegen und weiterzumachen, denn: „Das Wichtigste ist, dass man dranbleibt.“ Natürlich werden die Jugendlichen viel von ihren Eltern und Lehrpersonen unterstützt, müssen jedoch selbst entscheiden, was sie mit ihrer Zukunft tun wollen. „Es ist sehr wichtig, solche Mentor/innen zu haben, Leitsterne, von denen du lernst und zu denen du aufschaust“, sprach sich Kobe Bryant aus. Es sei wichtig, Idole oder Vorbilder zu haben, zu denen man aufschaut und die einen dazu motivieren, weiterzumachen, weiter zu üben, zu trainieren, um eines Tages genauso gut oder gar besser zu werden als sie. 
-
-
 
 ## The gain
 
