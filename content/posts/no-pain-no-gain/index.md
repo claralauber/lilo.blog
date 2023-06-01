@@ -13,6 +13,8 @@ Immer mehr Schülerinnen und Schüler des Konservatoriums Bern nehmen an einem F
 
 {{</lead>}}
 
+*Autorinnen: Lia Hess, Clara Lauber und Helena Trautmann (M25a)*
+
 ![Bereits um acht Uhr morgens hat das Konsi geöffnet, ideal, um schon vor der Schule auf die Pauke zu hauen. Foto: Helena Trautmann](microsoftteams-image.png)
 
 Es ist ein regnerischer Montagmorgen, kurz nach acht. Normalerweise sitzt der 16-jährige Gymnasiast Aaron Wulf zu dieser Uhrzeit im Konservatorium Bern und übt Percussion. Percussion ist ein Oberbegriff für den Bereich der Schlag- und Effektivinstrumente; jedes Perkussionsinstrument hat dabei eine individuelle Herkunft bzw. eine kulturelle Bedeutung. Dieses Mal jedoch ist er für das Interview mit uns in die Mediothek des Gymnasium Kirchenfelds gekommen. Die rechteckige Brille auf der Nase, die blonden Locken zu einem Dutt zusammengebunden und die Kopfhörer um den Nacken gelegt, sehen wir ihn an einem der Tische. Auf den ersten Blick ist nicht erkennbar, was sein Hobby ist, und noch weniger, was es für ihn bedeutet - was uns jedoch schon sehr bald klar wird. Seit zehn Jahren spiele er Percussion, ausserdem habe er sechs Jahre lang Klavier gespielt, wegen der Schule dann jedoch aufgehört, erzählt er uns. Nebenbei sei er in einem Fussballverein.
