@@ -29,7 +29,7 @@ Jede/r, der sich für Musik interessiert und mehr Zeit dafür investieren möcht
 
 {{</box>}}
 
-Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssport und allen anderen Bereichen, in welchen ein grosser Erfolg erzielt werden soll, wird Beharrlichkeit und Kontinuität gebraucht.  Dazu passt auch eine Aussage über Kobe Bryant, ein kürzlich verunfallte Basketballspieler der National Basketball League, kurz NBL, von seinem Trainer, Phil Jackson: „Er erreichte sein Ziel durch Einsatz und Beharrlichkeit“.
+Nicht nur in der Musik braucht es viel Durchhaltevermögen - auch im Leistungssport und allen anderen Bereichen, in welchen ein grosser Erfolg erzielt werden soll, wird Beharrlichkeit und Kontinuität gebraucht.  Dazu passt auch eine Aussage über Kobe Bryant, ein kürzlich verunfallter Basketballspieler der National Basketball League, kurz NBL, von seinem Trainer, Phil Jackson: „Er erreichte sein Ziel durch Einsatz und Beharrlichkeit“.
 
 > «Es kostet Zeit, Nerven und Geld, doch die Freude an der Musik und der Spass am Instrument motiviert sie und zeigt ihnen, was das Schöne an ihrem Hobby ist.»
 
